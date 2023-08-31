@@ -1,0 +1,8 @@
+.vscode/
+.dev/
+__pycache__/
+*.log
+.idea
+testing.py
+.DS_Store
+venv
