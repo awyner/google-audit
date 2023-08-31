@@ -1,0 +1,9 @@
+#Eventually add specific versions...
+pytest-playwright
+pwinput
+dnspython
+docx
+docxtpl
+openpyxl==3.0.10
+openpyxl_templates
+future

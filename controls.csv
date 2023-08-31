@@ -1,0 +1,20 @@
+#CONTROL NUMBER; URL; PREFIX; FORM_NAME; SEARCH_STRING
+3.1.1.1.1;https://admin.google.com/ac/managedsettings/435070579839/sharing?hl=en;External sharing options for primary calendars is set to: ;External sharing options for primary calendars;Outside $ORG - set user ability for primary calendars
+3.1.1.1.3;https://admin.google.com/ac/managedsettings/435070579839/sharing?hl=en;Warn users when inviting guests outside of the domain is set to: ;External Invitations;Warn users when inviting guests outside of the domain $ORG Learn more
+3.1.2.1.1.5;https://admin.google.com/ac/managedsettings/55656082996/sharing?hl=en;Access checker is set to: ;Sharing options;Access Checker
+3.1.2.1.1.6;https://admin.google.com/ac/managedsettings/55656082996/sharing?hl=en;Distributing content outside of the organization is set to: ;Sharing options;Distributing content outside of $ORG
+3.1.2.1.2.1;https://admin.google.com/ac/managedsettings/55656082996/sharing?hl=en;Prevent users in the organization from creating new shared drives is set to: ;Shared drive creation;Prevent users in $ORG from creating new shared drives
+3.1.2.1.2.2;https://admin.google.com/ac/managedsettings/55656082996/sharing?hl=en;Allow members with manager access to override the settings below: ;Shared drive creation;Allow members with manager access to override the settings below
+3.1.2.1.2.3;https://admin.google.com/ac/managedsettings/55656082996/sharing?hl=en;Allow people who aren't shared drive members to be added to files: ;Shared drive creation;Allow people who aren't shared drive members to be added to files
+3.1.2.2.1;https://admin.google.com/ac/managedsettings/55656082996/data?hl=en;Offline access to documents is set to: ;Offline;Applied at '$ORG'
+3.1.2.2.3;https://admin.google.com/ac/managedsettings/55656082996/data?hl=en;Allow users to install Google Docs add-ons from add-ons store: ;Add-Ons;Allow users to install Google Docs add-ons from add-ons store.
+3.1.2.2.2;https://admin.google.com/ac/managedsettings/55656082996/drivefordesktop?hl=en;Allow Google Drive for desktop in your organization: ;Enable Drive for desktop;Allow Google Drive for desktop in your organization
+3.1.3.1.1;https://admin.google.com/ac/apps/gmail/usersettings?hl=en;;Mail delegation;Applied at '$ORG'
+3.1.3.1.2;https://admin.google.com/ac/apps/gmail/usersettings?hl=en;;Gmail web offline;This replaces the Gmail offline Chrome application.
+3.1.3.5.3;https://admin.google.com/ac/apps/gmail/enduseraccess?hl=en;;Allow per-user outbound gateways;Applied at '$ORG'
+3.1.3.5.4;https://admin.google.com/ac/apps/gmail/enduseraccess?hl=en;;Warn for external recipients;Applied at '$ORG'
+3.1.3.6.1;https://admin.google.com/ac/apps/gmail/spam?hl=en;;Enhanced pre-delivery message scanning;Learn more
+3.1.3.7.1;https://admin.google.com/ac/apps/gmail/compliance?hl=en;;Comprehensive mail storage;Learn more
+4.1.2.1;https://admin.google.com/ac/managedsettings/352555445522/accountrecovery;Allow super admins to recover their account: ;Super admin account recovery;Allow super admins to recover their account
+4.1.2.2;https://admin.google.com/ac/managedsettings/352555445522/accountrecovery;Allow users and non-super admins to recover their account: ;User account recovery;Allow users and non-super admins to recover their account
+3.1.1.2.1;https://admin.google.com/ac/managedsettings/435070579839/general;;External sharing options for secondary calendars;Outside $ORG - set user ability for secondary calendars
