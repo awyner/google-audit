@@ -24,3 +24,8 @@ pip install -r requirements.txt
 source venv/bin/activate
 python3 GoogleAudit.py
 ```
+
+Authors:
+- Alex Wyner - https://github.com/awyner
+
+- Chris Melnyk - https://github.com/wagyus
