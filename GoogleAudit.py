@@ -874,10 +874,15 @@ def find_keyword(text, keyword):
     return text[index + len(keyword):]
 
 with sync_playwright() as playwright:
-    results_path = './Results'
-    log_path = "./Logs"
-    screenshot_path = os.path.join('./Screenshots')
+    org = input('[?] Enter organization acronym: ')
+    results_path = f'./Results/{org}'
+    log_path = f"./Logs/{org}"
+    screenshot_path = (f'{results_path}/Screenshots')
 
+    if not os.path.isdir('./Results'):
+        os.mkdir('./Results')
+    if not os.path.isdir(results_path):
+        os.mkdir(results_path)
     if not os.path.isdir(log_path):
         os.mkdir(log_path)
     if not os.path.isdir(screenshot_path):
