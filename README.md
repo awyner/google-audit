@@ -13,7 +13,7 @@ After the analysis is complete, the raw results are logged in results.csv.
 ```bash
 # Clone down repo and cd in
 python3 -m venv venv
-source venv/bin/active
+source venv/bin/activate
 which pip  # Verify pip is in venv directory
 pip install -r requirements.txt
 ```
